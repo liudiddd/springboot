@@ -1,0 +1,6 @@
+com\edu\mall\product\App.class
+com\edu\mall\product\mapper\ProductMapper.class
+com\edu\mall\product\web\Response.class
+com\edu\mall\product\controller\ProductController.class
+com\edu\mall\product\bean\Product.class
+com\edu\mall\product\ServiceRegister.class
